@@ -1,13 +1,5 @@
 ---
-layout: post
 title: "Bean đã thành người có tuổi."
-description: 
-date: 2019-11-03
-categories: blog
-image: 
-comments: true
-share: true
-author: nghia_luong
 tags: [emotion, family]  
 --- 
 

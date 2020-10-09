@@ -1,13 +1,5 @@
 ---
-layout: post
 title: "Dặn bạn trai mới của em"
-description: 
-date: 2019-06-28
-categories: blog
-image: 
-comments: true
-share: true
-author: nghia_luong
 tags: [emotion, poem]  
 --- 
 

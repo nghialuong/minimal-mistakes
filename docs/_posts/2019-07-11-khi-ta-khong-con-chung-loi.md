@@ -1,13 +1,5 @@
 ---
-layout: post
 title: "Khi ta không còn chung lối"
-description: 
-date: 2019-07-11
-categories: blog
-image: 
-comments: true
-share: true
-author: nghia_luong
 tags: [emotion, poem]  
 --- 
 

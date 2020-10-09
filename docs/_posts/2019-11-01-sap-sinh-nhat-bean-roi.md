@@ -1,13 +1,5 @@
 ---
-layout: post
 title: "Sắp sinh nhật Bean rồi."
-description: 
-date: 2019-11-01
-categories: blog
-image: 
-comments: true
-share: true
-author: nghia_luong
 tags: [emotion, family]  
 --- 
 
@@ -21,7 +13,7 @@ Trước hết chào mừng cậu hoà nhập cùng cái thứ mà loài ngườ
 
 Cho tớ tự xin tớ một đoạn văn quảng cáo, tớ chính là Bác ruột cậu, mà đi chúc Tết thì người ta sẽ kêu là bác ruột bên ngoại, hay sau này cậu có giới thiệu với những cô bạn gái cậu thì rằng là mà: "Bác này là anh ruột mẹ anh đấy". Nhưng cho tớ xin phép xưng "tớ", kêu "cậu", là vì tớ thì đang còn trẻ, chưa sang 3x, còn cậu thì trẻ, "trẻ sơ sinh" mà. Vậy đi, thống nhất thế. Xin kết thúc đoạn văn giới thiệu tại đây.
 
-![](/images/cu_bean.JPG)
+![](/docs/assets/images/cu_bean.JPG)
 
 2018 là năm cực kỳ nhiều biến động với tớ, 27 năm qua tớ ko hề nghĩ rằng mẹ cậu (em gái ruột tớ) lại "còi to" hơn tớ, rồi tự nhiên có 1 thanh niên nào đó ko hiểu mấy chục năm qua đi đâu mà lại vô nhà mình, rồi thật tình cờ và bất ngờ, gọi mẹ của mình là "mẹ", rồi mình phải gọi thanh niên đó là "em" và ngược lại trong khi thanh niên hơn cả tuổi mình. Những gì tớ vừa viết, chứng tỏ cho cậu thấy một ví dụ về cuộc sống có rất nhiều điều thú vị, không ngờ, không thể đoán được, nó có thể tồi, có thể xấu, có thể hay ho, có thể hưng phấn ... và cậu, giờ đây chính là một mắt xích trong nó, khi nào cậu cảm thấy một điều gì đó ko đc thoải mái lắm, nhưng vẫn phải chấp nhận nó, thì hãy cứ thốt lên rằng "oe oe oe", còn khi nào biết nói thì nó là "cuộc sống mà". Ví dụ đói mà không đc mẹ cho bú, hay tệ hơn là đói là mẹ vẫn "xiiiiii xiiiiii" để tè .... nhớ nhé, "oe oe oe" a.k.a "cuộc sống mà".
 
@@ -39,4 +31,4 @@ Tớ - bác ruột cậu.
 
 P/s: ko hiểu bố cậu sao lại đặt tên cậu là Bean, sau này đi thi ĐH, ghi là Mr Bean à. Cậu chắc chắn phải đẹp trai hơn Mr Bean chứ. hmmm
 
-Copenhagen, 14/11/2018
+**Copenhagen, 14/11/2018**
