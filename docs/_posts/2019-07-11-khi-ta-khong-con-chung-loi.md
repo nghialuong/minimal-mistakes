@@ -3,13 +3,13 @@ title: "Khi ta không còn chung lối"
 tags: [emotion, poem]  
 --- 
 
-### Lời mở: 
+## Lời mở: 
 
 Trở về 7 năm trước, khi tôi lần đầu biết yêu, và yêu sâu đậm, và như một điều dĩ lẽ, trái tim cũng vỡ vụn khi chia tay. Tôi cố lết qua những ngày dài vô vị với thân xác và ánh nhìn của một tâm hồn ngờ nghệch, trước mắt tôi lúc bấy giờ chỉ tồn tại 2 màu đen trắng hệt như một bộ phim cũ. Có lẽ sắc màu duy nhất tôi tìm được là được trải lòng qua những khuôn chữ. Và, bài thơ này được ra đời như vậy. 
 
-Một mảnh tưởng tượng mà tôi cũng không hiểu nó xuất phát từ đâu.
+*Một mảnh tưởng tượng mà tôi cũng không hiểu nó xuất phát từ đâu.*
 
-### Bài thơ: Khi ta không còn chung lối
+## Bài thơ: Khi ta không còn chung lối
 
 Ba tháng sau khi ta không còn chung lối  
 Gặp lại nhau, mắt em vẫn ấm  
@@ -37,7 +37,6 @@ Nghia Luong
 
 --
 
-*P/s: bài này tặng **The 1st**. Bức ảnh do hắn chụp, trông hồn nhiên dữ.
-
-![](/images/khi-ta-khong-con-chung-loi.jpg)
+P/s: bài này tặng **The 1st**. 
+{: .notice}
     

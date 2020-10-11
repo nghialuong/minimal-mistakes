@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "_nghialuong"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   name             : "Nghia Luong"
   avatar           : "/docs/assets/images/blog-logo.png"
   bio              : "I just love my "
-  location         : "Ho Chi Minh city, VN"
+  location         : "HCM, VN"
   email            : "nghialt01146@gmail.com"
   links:
     # - label: "Email"
@@ -114,6 +114,9 @@ author:
     - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nghialuong"
+    - label: "📷 photography"
+      icon: ""
+      url: "https://500px.com/p/nghialuong"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
