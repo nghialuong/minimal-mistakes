@@ -34,13 +34,13 @@ Let's dive into **Swift compiler**.
 
 `Swift compiler` not only has 6 phases above, but it also adds some more interesting layers. It basically has 2 parts: **front-end** and **back-end**. Here is a demonstration.
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/swift_compiler_front_back_ends.jpg)
+![](https://github.com/nghialuong/nghialuong.github.io/blob/gh-pages/docs/assets/images/swift_compiler_front_back_ends.jpg)
 
 Let's see what is going on at these two.
 
 ## Swift compiler front-end
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/swift_compiler_pipeline.jpg)
+![](https://github.com/nghialuong/nghialuong.github.io/blob/gh-pages/docs/assets/images/swift_compiler_pipeline.jpg)
 
 After the `swift` file is passed into swift compiler - which is `swiftc`, it will do the job. `Lexical Analyzer` and `Syntax Analyzer` consecutively will be put in place, and the output of the 2 steps is [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree). Next, the AST will be passed into the `Sematic analyzer`, and again, being analyzed. Now, is an interesting part. All the output will be passed into `SILGen`, so what is it and the thing named `SIL` as well?
 
